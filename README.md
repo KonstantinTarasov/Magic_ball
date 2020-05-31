@@ -6,4 +6,6 @@
 [Информация в википпедии](https://ru.wikipedia.org/wiki/Magic_8_ball)  
 Запускается из корневой папки командой :
 
-```ruby magic_ball.rb```
+```
+ruby magic_ball.rb
+```
